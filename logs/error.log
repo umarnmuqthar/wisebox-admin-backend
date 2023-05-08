@@ -1,0 +1,23 @@
+GET /dsd - [undefined] [message: infp is not defined]
+GET /dsd - [undefined] [message: infp is not defined]
+GET /dsd - [404] [message: Not Found]
+GET /dsd - [404] [message: Not Found]
+GET /dsd - [404] [message: Requested url: GET /dsd, Not Found]
+GET /dsd - [404] [message: Requested url: GET /dsd, Not Found], [index.js:[85 : 22]]
+GET /dsd - [404] [message: Requested url: GET /dsd, Not Found], [index.js:[85 : 22]]
+GET /dsd - [404] [message: Requested url: GET /dsd, Not Found], [index.js:[85 : 22]]
+GET / - [404] [message: Requested url: GET /, Not Found], [index.js:[85 : 22]]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Thu, 25 Nov 2021 09:58:46 GMT], [index.js:[85 : 22]]
+PUT /teacher/question/619f2d14ee60b20004063f63 - [undefined] [message: File too large] - [Thu, 25 Nov 2021 10:19:52 GMT]
+PUT /teacher/question/619f2d14ee60b20004063f63 - [function status(code) {
+  this.statusCode = code;
+  return this;
+}] [message: File too large] - [Thu, 25 Nov 2021 10:24:47 GMT]
+PUT /teacher/question/619f2d14ee60b20004063f63 - [500] [message: File too large] - [Thu, 25 Nov 2021 10:25:37 GMT]
+GET /teacher/slab/what-is-living-rgcT3PMu1 - [401] [message: Unauthorized] - [Thu, 25 Nov 2021 10:29:21 GMT], [utils/jwt_helper.js:[27 : 68]]
+POST /teacher/auth/login - [404] [message: User not registered] - [Thu, 25 Nov 2021 10:31:48 GMT], [controllers/teacher/Auth_controller.js:[54 : 41]]
+GET /teacher/auth/ - [401] [message: Unauthorized] - [Thu, 25 Nov 2021 10:31:48 GMT], [utils/jwt_helper.js:[32 : 41]]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:49:30 GMT], [index.js:[85 : 22]]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:49:56 GMT], [index.js:[85 : 22]]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 05:10:31 GMT], [index.js:[87 : 22]]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 05:10:35 GMT], [index.js:[87 : 22]]

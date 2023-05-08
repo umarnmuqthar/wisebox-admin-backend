@@ -1,0 +1,14 @@
+version: '3'
+services:
+  wisebox-backend:
+    build: .
+    ports:
+      - 5001:8080
+    depends_on: 
+      - redis
+    environment:
+      - REDIS_HOST=redis
+  redis: 
+    image: 'redis'
+    ports:
+      - 6379:6379

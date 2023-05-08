@@ -1,0 +1,201 @@
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+GET /dsd - [Thu, 25 Nov 2021 09:52:39 GMT]
+Mongodb connected
+GET /dsd - [Thu, 25 Nov 2021 09:53:34 GMT]
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+GET /dsd - [Thu, 25 Nov 2021 09:53:40 GMT]
+Mongodb connected
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+GET /dsd - [Thu, 25 Nov 2021 09:56:02 GMT]
+Mongodb connected
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+GET /dsd - [Thu, 25 Nov 2021 09:56:34 GMT]
+Mongodb connected
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+GET /dsd - [Thu, 25 Nov 2021 09:57:11 GMT]
+Mongodb connected
+GET / - [Thu, 25 Nov 2021 09:57:14 GMT]
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+GET / - [Thu, 25 Nov 2021 09:57:34 GMT]
+Mongodb connected
+GET / - [Thu, 25 Nov 2021 09:57:43 GMT]
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+GET / - [Thu, 25 Nov 2021 09:57:50 GMT]
+Mongodb connected
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+GET / - [Thu, 25 Nov 2021 09:58:46 GMT]
+Mongodb connected
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+PUT /teacher/question/619f2d14ee60b20004063f63 - [Thu, 25 Nov 2021 10:19:52 GMT]
+Mongodb connected
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+Mongodb connected
+PUT /teacher/question/619f2d14ee60b20004063f63 - [Thu, 25 Nov 2021 10:24:47 GMT]
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+PUT /teacher/question/619f2d14ee60b20004063f63 - [Thu, 25 Nov 2021 10:25:37 GMT]
+GET /teacher/slab/what-is-living-rgcT3PMu1 - [Thu, 25 Nov 2021 10:25:38 GMT]
+Mongodb connected
+GET /data/boards - [Thu, 25 Nov 2021 10:26:24 GMT]
+GET /teacher/auth/ - [Thu, 25 Nov 2021 10:26:24 GMT]
+GET /teacher/slab/what-is-living-rgcT3PMu1 - [Thu, 25 Nov 2021 10:26:24 GMT]
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+Mongodb connected
+GET /teacher/slab/what-is-living-rgcT3PMu1 - [Thu, 25 Nov 2021 10:29:21 GMT]
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+Mongodb connected
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+Mongodb connected
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+GET /teacher/auth/ - [Thu, 25 Nov 2021 10:30:36 GMT]
+GET /data/boards - [Thu, 25 Nov 2021 10:30:36 GMT]
+GET /teacher/slab/what-is-living-rgcT3PMu1 - [Thu, 25 Nov 2021 10:30:36 GMT]
+Mongodb connected
+GET /data/boards - [Thu, 25 Nov 2021 10:31:05 GMT]
+GET /teacher/auth/ - [Thu, 25 Nov 2021 10:31:05 GMT]
+GET /teacher/slab/what-is-living-rgcT3PMu1 - [Thu, 25 Nov 2021 10:31:05 GMT]
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+POST /teacher/auth/login - [Thu, 25 Nov 2021 10:31:44 GMT]
+Mongodb connected
+GET /teacher/auth/ - [Thu, 25 Nov 2021 10:31:48 GMT]
+GET /data/boards - [Thu, 25 Nov 2021 10:31:48 GMT]
+POST /teacher/auth/login - [Thu, 25 Nov 2021 10:31:52 GMT]
+GET /teacher/auth/ - [Thu, 25 Nov 2021 10:31:52 GMT]
+GET /data/boards - [Thu, 25 Nov 2021 10:31:52 GMT]
+GET /teacher/slab/what-is-living-rgcT3PMu1 - [Thu, 25 Nov 2021 10:31:53 GMT]
+GET /data/boards - [Thu, 25 Nov 2021 10:32:09 GMT]
+GET /teacher/auth/ - [Thu, 25 Nov 2021 10:32:09 GMT]
+GET /teacher/slab/what-is-living-rgcT3PMu1 - [Thu, 25 Nov 2021 10:32:09 GMT]
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+Mongodb connected
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+Mongodb connected
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+Mongodb connected
+GET / - [Sat, 27 Nov 2021 04:49:30 GMT]
+GET / - [Sat, 27 Nov 2021 04:49:56 GMT]
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+GET / - [Sat, 27 Nov 2021 04:50:07 GMT]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:50:07 GMT], [index.js:[85 : 22]]
+GET / - [Sat, 27 Nov 2021 04:50:08 GMT]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:50:08 GMT], [index.js:[85 : 22]]
+Mongodb connected
+GET / - [Sat, 27 Nov 2021 04:50:08 GMT]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:50:08 GMT], [index.js:[85 : 22]]
+GET / - [Sat, 27 Nov 2021 04:50:09 GMT]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:50:09 GMT], [index.js:[85 : 22]]
+GET / - [Sat, 27 Nov 2021 04:50:09 GMT]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:50:09 GMT], [index.js:[85 : 22]]
+GET / - [Sat, 27 Nov 2021 04:50:09 GMT]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:50:09 GMT], [index.js:[85 : 22]]
+GET / - [Sat, 27 Nov 2021 04:50:09 GMT]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:50:09 GMT], [index.js:[85 : 22]]
+GET / - [Sat, 27 Nov 2021 04:50:09 GMT]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:50:09 GMT], [index.js:[85 : 22]]
+GET / - [Sat, 27 Nov 2021 04:50:10 GMT]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:50:10 GMT], [index.js:[85 : 22]]
+GET / - [Sat, 27 Nov 2021 04:50:10 GMT]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:50:10 GMT], [index.js:[85 : 22]]
+GET / - [Sat, 27 Nov 2021 04:50:10 GMT]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:50:10 GMT], [index.js:[85 : 22]]
+GET / - [Sat, 27 Nov 2021 04:50:10 GMT]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:50:10 GMT], [index.js:[85 : 22]]
+GET / - [Sat, 27 Nov 2021 04:50:12 GMT]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:50:12 GMT], [index.js:[85 : 22]]
+GET / - [Sat, 27 Nov 2021 04:50:19 GMT]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:50:19 GMT], [index.js:[85 : 22]]
+GET / - [Sat, 27 Nov 2021 04:50:45 GMT]
+GET / - [404] [message: Requested url: GET /, Not Found] - [Sat, 27 Nov 2021 04:50:45 GMT], [index.js:[85 : 22]]
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+GET / - [Sat, 27 Nov 2021 04:51:22 GMT]
+Mongodb connected
+GET / - [Sat, 27 Nov 2021 04:52:02 GMT]
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+Mongodb connected
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+Mongodb connected
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+Mongodb connected
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+Mongodb connected
+Client disconnected from redis
+Server is running on port 5001
+Client connected to redis
+Client ready to use
+Mongodb connected
+GET / - [Sat, 27 Nov 2021 05:10:31 GMT]
+GET / - [Sat, 27 Nov 2021 05:10:35 GMT]
+Client disconnected from redis
